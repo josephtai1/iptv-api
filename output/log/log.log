@@ -1,0 +1,8 @@
+2026-08-29T08:44:31+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-07 11:45:59)
+2026-08-29T08:44:32+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-08-29T08:44:32+00:00 WARNING [phase=prepare event=network.ipv6.unsupported] 当前网络不支持IPv6，别担心，IPv6的结果会被保存下来
+2026-08-29T08:44:32+00:00 INFO    [run=0c57066ca4d74818b7dd96eadb503eeb phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 15.61 GB，并发: 测速 8、媒体探测 2、源抓取 8
+2026-08-29T08:44:32+00:00 INFO    [run=0c57066ca4d74818b7dd96eadb503eeb phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 2，台标 21
+2026-08-29T08:44:32+00:00 WARNING [run=0c57066ca4d74818b7dd96eadb503eeb phase=prepare event=run.empty_data] 未生成频道数据：模板中没有频道名称。
+请检查模板文件 config/demo.txt，确保包含“频道分类,#genre#”和频道名称。教程：https://github.com/Guovin/iptv-api/blob/master/docs/tutorial.md#添加数据源与更多
+2026-08-29T08:44:32+00:00 WARNING [run=0c57066ca4d74818b7dd96eadb503eeb phase=complete event=run.finished] 运行完成，但未生成频道数据，请按提示配置或检查数据源。
