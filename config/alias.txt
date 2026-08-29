@@ -88,9 +88,9 @@ FZTV3,FZTV-3,福州3-生活,福州电视台生活频道,福州生活资讯,福�
 CGTN 英語頻道,CGTN 英語頻道
 港台电视 36,港台電視 36,RTHK36,RTHK 36,RTHK-36
 
-*HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台
-*HOY TV,*HOY TV
-*HOY 資訊台,*HOY 資訊台
+HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台
+HOY TV,*HOY TV
+HOY 資訊台,*HOY 資訊台
 
 赣州新闻,GZSXW,GZSNews
 
