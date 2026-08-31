@@ -31,7 +31,7 @@ CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD,
 CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD,CETV2 (576p),CETV-2
 CETV-3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD,CETV-3
 CETV-4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD,CETV-4
-CGTN英语,CGTN英语新闻,CGTN国际,CGTN国际 1080P,cgtn,cgtn新闻,[BD]cgtn,[BD]cgtn新闻,CGTNHD,cgtn英语,CGTN主频道,CGTN英語頻道,备用源1:CGTN,CGTN主,CGTNSD,CGTN英文,CGTN英语频道,CGTN (1080p)
+CGTN英语,CGTN英语新闻,CGTN国际,CGTN国际 1080P,cgtn,cgtn新闻,[BD]cgtn,[BD]cgtn新闻,CGTNHD,cgtn英语,CGTN主频道,CGTN英語頻道,备用源1:CGTN,CGTN主,CGTNSD,CGTN英文,CGTN英语频道,CGTN (1080p),CGTN 英語頻道,CGTN 英語頻道
 
 文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD,cc央视文化精品,cctv文化精品,央视文化精品,央视文化精品hd,CCTV 文化精品,CCTV-Culture of Quality,CCTV-Culture_of_Quality_,CCTV-Culture of Quality (1080p),CCTV-Culture_of_Quality_(1080p)
 央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球,央视台球HD,央视台球HD 1080P,球,cctv央视台球,cc央视球,央视台球hd,CCTV 央视台球,CCTV-Billiards,CCTV-Billiards_,CCTV-Billiards (1080p),CCTV-Billiards_(1080p)
@@ -93,6 +93,7 @@ TVB Plus,TVBPlus,TVB plus 超清,TVB+,TVB PLUS(多音轨字幕),tvb plus超清,t
 TVB1,TVB 1
 TVB J1,TVB j1,TVBJ1,TVB J1频道,TVBj1,無線J1
 TVB J2,TVB j2,TVBJ2,TVB J2频道,TVBj2,无线J2,無線J2
+华丽翡翠台,翡翠台华丽,翡翠台(馬來),翡翠台(马来),华丽翡翠台(多音轨字幕),华丽翡翠台(新加坡),无线华丽,TVB华丽翡翠,TVB华丽翡翠新加坡,tvb華麗,Astro华丽台 *b,无线华丽Pdtv,无线华丽台,華麗翡翠台
 TVB剧场,tvb剧场,TVB劇場,tvb劇場
 TVB粤语片台,香港TVB粤语片台,TVB Classic Movies,TVB粵語片台,TVBClassicMovies,无线粤片台,TVB粵語片台,香港TVB粵語片台,TVB粵語片台,無線粵片台
 翡翠剧集,翡翠剧集台,TVB翡翠剧集,TVB翡翠劇集,翡翠劇集,翡翠劇集台,TVB翡翠劇集,TVB翡翠劇集
@@ -104,12 +105,11 @@ ViuTV,VIUTV,ViuTV HD+,viutv高清,viutv,viutv香港,VIU TV,ViuTV1,ViuTV壹台,Vi
 HOY TV,*HOY TV,HOY77,hoy77,HOY综合台,HOY 綜合台,有线综合台,有線綜合台,有线综合Pdtv,有线综合频晴,有线综合高码,有线综合频伍,HOY77综合,HOY綜合台,备用源1:HOY TV,HOY_TV_,HOY TV (1080p) [Geo-blocked]
 HOY 資訊台,*HOY 資訊台,HOY78,hoy78,HOY新闻台,HOY 新聞台,有線新聞台,有线新闻Pdtv,有线新闻频晴,有线新闻高码,有线新闻频伍,有线新闻频陆,HOY78新闻,HOY新聞台,HOY資訊台,有線新聞,HOY Infotainment (1080p) [Geo-blocked]
 HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台,HOY76,hoy76,HOY财经台,HOY 財經台,有线财经台,有線財經資訊台,有线赛讯台,有線賽訊台,有线赛讯频晴,有线赛讯高码,HOY76财经,HOY財經台,HOY國際財經台,HOY International Business Channel (1080p) [Geo-blocked],HOY International Business Channel [Geo-blocked]
-港台电视31,港台[电视電視]31,港台電視 31,RTHK31,RTHK 31,RTHK-31,港台电视31,港臺電視31超清[RTHK TV 31 HD+],港臺電視31,RTHK TV 31,RTHK TV 31 HD+,港臺電視31超清,港臺電視31高清,[BD]港臺電視31高清,rthk31,RTHK-31高码,RTHK-31频陆,港台電視31,RTHK TV31,RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
+港台电视 31,港台电视31,港台[电视電視]31,港台電視 31,RTHK31,RTHK 31,RTHK-31,港台电视31,港臺電視31超清[RTHK TV 31 HD+],港臺電視31,RTHK TV 31,RTHK TV 31 HD+,港臺電視31超清,港臺電視31高清,[BD]港臺電視31高清,rthk31,RTHK-31高码,RTHK-31频陆,港台電視31,RTHK TV31,RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 港台电视 32,港台[电视電視]32,港台電視 32,RTHK32,RTHK 32,RTHK-32,港台电视32,港臺電視32超清[RTHK TV 32 HD+],港臺電視32,RTHK TV 32,RTHK TV 32 HD+,港臺電視32超清,港臺電視32高清,[BD]港臺電視32高清,rthk32,RTHK-32高码,RTHK-32频陆,港台電視32,RTHK TV32,RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
-中央電視台綜合頻道,中央電視台綜合頻道,RTHK33,RTHK 33,RTHK-33,中央电视港澳版,港台電視 33,RTHK-33高码,RTHK-33频陆,港台電視33,RTHK TV33,港台电视33,rthk33,RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
-中國環球電視網紀錄頻道,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34,港台電視 34,RTHK-34高码,RTHK-34频陆,港台電視34,RTHK TV34,港台电视34,rthk34,RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
-CGTN 英語頻道,CGTN 英語頻道
-港台电视35,rthk35,RTHK 35,港台电视 35,RTHK-5,RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+港台电视 33,中央電視台綜合頻道,中央電視台綜合頻道,RTHK33,RTHK 33,RTHK-33,中央电视港澳版,港台電視 33,RTHK-33高码,RTHK-33频陆,港台電視33,RTHK TV33,港台电视33,rthk33,RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+港台电视 34,中國環球電視網紀錄頻道,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34,港台電視 34,RTHK-34高码,RTHK-34频陆,港台電視34,RTHK TV34,港台电视34,rthk34,RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+港台电视 35,港台电视35,rthk35,RTHK 35,RTHK-5,RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
 港台电视 36,港台電視 36,RTHK36,RTHK 36,RTHK-36,RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
 澳视澳门,澳視澳門,澳视澳门Pdtv,TDM Ou Mun Macau,TDM Ou Mun-Macau,备用源1:澳视澳门,备用源2:澳视澳门,TDM Ou Mun,澳门澳门Macau,澳門-MACAU,澳门Macau,澳门-MACAU,MACAU,澳门mac台,澳視澳門Pdtv,備用源1:澳視澳門,備用源2:澳視澳門,澳門澳門Macau,澳門-MACAU,澳門Macau,澳門-MACAU,澳門mac台
 澳视卫星,澳視衛星,澳视卫星Pdtv,备用源1:澳视卫星,备用源2:澳视卫星,TDM-Macau Satellite,TDMMacauSatellite,澳視衛星Pdtv,備用源1:澳視衛星,備用源2:澳視衛星
@@ -120,23 +120,24 @@ CGTN 英語頻道,CGTN 英語頻道
 凤凰资讯,鳳凰資訊HD,鳳凰資訊,鳳凰資訊台,鳳凰衛視資訊,[BD]凤凰卫视资讯,凤凰资讯Pdtv,凤凰资讯hd,凤凰资讯台,凤凰卫视资讯台,鳳凰衛視資訊台,凤凰资讯高清,凤凰信息频晴,凤凰资讯频陆,备用源1:凤凰资讯,Phoenix InfoNews Channel,凤凰卫视 资讯台,凤凰资讯ipv6,凤凰资讯 (720p)
 凤凰电影,凤凰卫视电影台,凤凰电影台,鳳凰電影,鳳凰衛視電影台,鳳凰電影台
 TVBS亚洲,TVBS亚洲,TVBS,tvbs,台湾TVBS,TVBS HD,Tvbs_HD频陆,Tvbs,TVBS亞洲,TVBS亞洲,台灣TVBS,Tvbs_HD頻陸
-TVBS台剧台,tvbs剧,TVBS台劇台,tvbs劇,TVBS台剧,tvbs台剧,TVBS台劇,tvbs台劇
-三立台湾台,三立台灣台,三立台湾
+TVBS台剧台,tvbs剧,TVBS台劇台,tvbs劇,TVBS台剧,tvbs台剧,TVBS台劇,tvbs台劇,TVBS精采台,TVBS歡樂台
+三立台湾台,三立台灣台,三立台湾,SET Taiwan,三立台灣台,三立台灣,三立台湾频晴,三立台灣頻陸,三立台灣頻晴,三立台湾频陆
 三立新闻,三立新聞inews,三立新聞,三立INEWS HD,三立新闻台,SET News,三立NEWS+,三立新闻频晴,三立新闻频陆,三立新闻4Gtv,三立新闻INEWS,SET News (三立新聞) (1080p) [Geo-blocked],三立iNEWS,三立新闻2台,三立INEWS,三立新聞台,三立新聞頻晴,三立新聞頻陸,三立新聞4Gtv,三立新聞INEWS,三立新聞2台
-三立综合台,三立綜合台,三立綜合
-三立戏剧,三立戏剧台,三立都会台,三立都会,三立都会频晴,三立综合频晴,三立台湾频陆,三立戏剧频陆,三立综合频陆,三立都会频道,三立綜合台,SET Metro,三立都會台,SET Taiwan,三立台灣台,三立台灣,三立都会频陆,三立綜合,三立台湾频晴,三立戏剧频晴,三立戲劇,三立戲劇台,三立都會,三立都會頻晴,三立綜合頻晴,三立台灣頻陸,三立戲劇頻陸,三立綜合頻陸,三立都會台,三立都會頻陸,三立台灣頻晴,三立戲劇頻晴
+三立综合台,三立綜合台,三立綜合,三立综合频晴,三立综合频陆,三立綜合台,三立綜合,三立綜合頻晴,三立綜合頻陸
+三立戏剧,三立戏剧台,三立都会台,三立都会,三立都会频晴,三立戏剧频陆,三立都会频道,SET Metro,三立都會台,三立都会频陆,三立戏剧频晴,三立戲劇,三立戲劇台,三立都會,三立都會頻晴,三立戲劇頻陸,三立都會台,三立都會頻陸,三立戲劇頻晴
 东森综合,东森综合台,東森綜合,東森綜合2,東森綜合臺,東森綜合台,东森综合频晴,东森综合频陆,东森亚洲卫视,台湾东森亚洲卫视,EBC Asia,東森亞洲衛視,EBCAsia,東森綜合頻晴,東森綜合頻陸,東森亞洲衛視,台灣東森亞洲衛視
 东森超视,東森超視,东森超级电视台,EBC超视,东森超级,東森超級電視台,EBC超視,東森超級
 东森戏剧,東森戲劇台,东森戏剧频陆,东森戏剧频晴,东森戏剧台,東森戲劇,東森戲劇頻陸,東森戲劇頻晴
 东森电影,東森電影,東森電影 *ee,[BD]東森電影,[BD]東森電影 *ee,东森电影台,東森電影台,東森电影国,东森电影频晴,东森洋片,東森洋片,東森洋片台,东森洋片频晴,东森洋片频陆,东森洋片台,東森電影國,東森電影頻晴,東森洋片頻晴,東森洋片頻陸
-now剧集台,Now剧集台,now劇集台,Now劇集台,now劇集台,Now劇集台
-now华剧台,香港now华剧台,now Chinese Drama Channel,now華劇台,nowChineseDramaChannel,香港now華劇台
+Now剧集,now剧集台,Now剧集台,now劇集台,Now劇集台,now劇集台,Now劇集台
+Now华剧,now华剧台,香港now华剧台,now Chinese Drama Channel,now華劇台,nowChineseDramaChannel,香港now華劇台
 靖天资讯台,靖天资讯,靖天综合,靖天综合频陆,靖天综合频晴,靖天综合台,靖天综合台,靖天資訊台,靖天資訊,靖天綜合,靖天綜合頻陸,靖天綜合頻晴,靖天綜合台,靖天綜合台
 Bloomberg Television,bloomberg,bloombergtelevision,彭博电视,Bloomberg TV Asia (720p),Bloomberg TV Asia Live Event (720p),彭博電視
 
 CHC家庭影院,chc家庭影院,[BD]chc家庭影院,CHC家庭影院HD,CHC高清影院高清,chc家庭,家庭影院,高清电影 (1080p)
 CHC动作电影,CHC動作電影,chc动作电影,[BD]chc动作电影,CHC动作电影HD,CHC动作影院高清,动作,动作电影 (1080p)
 CHC影迷电影,CHC影迷電影,chc影迷电影,[BD]chc影迷电影,[BD]chc电影,CHC影迷电影HD,chc,影迷电影,CHC高清电影
+粤语电影,粤语版电影
 NewTV惊悚悬疑,NEWTV惊悚悬疑,newtv惊悚悬疑,惊悚悬疑,惊悚悬疑
 NewTV动作电影,NEWTV动作电影,newtv动作电影,动作电影,动作电影,超级电影,NewTV超级电影
 黑莓电影,黑莓电影,NewTV黑莓电影,NEWTV黑莓电影,黑莓动画,黑莓动画,NewTV黑莓动画,NEWTV黑莓动画
@@ -153,8 +154,6 @@ AMC电影,AMC电影台,amc电影台,amcmovies,AMC電影台,amc電影台
 蜡笔小新,クレヨンしんちゃん,Crayon Shin-chan
 
 音乐现场,现场
-
-天龙八部集,天龙八部集
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清,广东珠江HD,广东珠江频晴,备用源1:广东珠江
 广东体育,广东体育,广东体育频道,广东体育高清,广东体育HD,广体,广东体育频晴,备用源1:广东体育
