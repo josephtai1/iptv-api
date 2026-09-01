@@ -85,7 +85,7 @@ CGTN英语,CGTN英语新闻,CGTN国际,CGTN国际 1080P,cgtn,cgtn新闻,[BD]cgtn
 新疆卫视,新疆衛視,新疆卫视高清,新疆卫视 高清,新疆卫视 8m1080,[BD]新疆卫视高清,[BD]新疆卫视 8m1080,[BD]新疆卫视 高清,新疆卫视HD,[BD]新疆卫视,新疆卫视hd,Xinjiang TV,新疆卫视频晴,备用源1:新疆卫视,新疆卫视SD,新疆卫视 (576p)
 云南卫视,雲南衛視,云南卫视高清,云南卫视 高清,云南卫视 8m1080,[BD]云南卫视高清,[BD]云南卫视 8m1080,[BD]云南卫视 高清,云南卫视HD,[BD]云南卫视,云南卫视hd,云南卫视频晴,备用源1:云南卫视,Yunnan Satellite TV,云南卫视SD,云南卫视 (1080p),云南卫视 (576p)
 
-翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台(字幕),翡翠台备,翡翠台超清[Jade HD+],翡翠台超清,Jade HD+,翡翠台(多音轨字幕),TVB翡翠,无线翡翠,翡翠,tvb翡翠,[BD]翡翠台,[BD]翡翠,无线翡翠Pdtv,翡翠台2,b翡翠,高清翡翠台,TVB翡翠台 4K,TVB翡翠台 1080P,無綫翡翠台,翡翠台北美版,无线翡翠频晴,无线翡翠高码,无线翡翠频伍,无线翡翠频陆,无线翡翠台,TVB翡翠台H.265,Jade,TVB Jade,TVB翡翠台4K,TVB翡翠台1080P,TVB翡翠台（备用）,TVB 翡翠台,TVB翡翠台 H.265,TVB jade,TVB翡翠台(备用),翡翠台4K,无线翡翠4K,翡翠台4k,翡翠4K,无线翡翠4Ktv
+翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台超清[Jade HD+],翡翠台超清,Jade HD+,TVB翡翠,无线翡翠,翡翠,tvb翡翠,高清翡翠台,TVB翡翠台 4K,TVB翡翠台 1080P,無綫翡翠台,无线翡翠台,TVB翡翠台4K,TVB翡翠台1080P,TVB 翡翠台,翡翠台4K,无线翡翠4K,翡翠台4k,翡翠4K,无线翡翠4Ktv
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl,明珠台(字幕),明珠,明珠台超清[Pearl HD+],明珠台超清,Pearl HD+,TVB明珠,明珠台(多音轨字幕),无线明珠,[BD]明珠台高清,[BD]明珠,无线明珠Pdtv,pearl,tvbpearl,re:^明珠台\s*\(.*?\).*$,無綫明珠台,TVBPearl,无线明珠频晴,无线明珠高码,无线明珠频陆,无线明珠台,Pearl,TVB 明珠台
 TVB Plus,TVBPlus,TVB plus 超清,TVB+,TVB PLUS(多音轨字幕),tvb plus超清,tvb+,tvbplus,tvb plus,TVBS Plus,Plus综合Pdtv,Plus综合,Plus综合频晴,无线Plus频伍,TVB82,82台,无线82台,TVB Plus 82,TVB综合频道,TVB Plus82,TVBplus,TVB Plus H.265,备用源1:TVB Plus,TVB综合,无线Plus台,TVB PLUS,TVBPLUS,Plus综合高码,TVB plus
 TVB娛樂新聞台,娱乐新闻台,娱乐,TVB 娱乐新闻台,無綫娛樂新聞台,无线娱乐Pdtv,无线娱乐频陆,无线娱乐新闻台,TVB Entertainment News,TVB娱乐新闻,TVB娱乐新闻台,无线娱乐台,无线娱乐频晴,无线娱乐
