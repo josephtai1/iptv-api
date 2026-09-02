@@ -10,14 +10,14 @@ https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/榴芒电视.txt
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx365.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/专区/♪港澳台.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
-https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
-https://live.hacks.tools/tv/ipv4/categories/macau.m3u
 
 
 
