@@ -4,5 +4,4 @@
 bxtv.3a.ink
 http://cdn.qd.je/163189/amzy
 https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
-http://4gtv.cnlive.club/channel/n4f2af9e/
-http://61.221.215.25:8800/hls/41/index.m3u8
+http://4gtv.cnlive.club/channel/
