@@ -171,19 +171,33 @@ CHC影迷电影,CHC影迷電影,chc影迷电影,[BD]chc影迷电影,[BD]chc电�
 黑莓电影,NewTV黑莓电影,黑莓电影,NEWTV黑莓电影,黑莓动画,黑莓动画,NewTV黑莓动画,NEWTV黑莓动画,NewTV动作电影,NEWTV动作电影,newtv动作电影,动作电影,动作电影,超级电影,NewTV超级电影,NewTV惊悚悬疑,NEWTV惊悚悬疑,newtv惊悚悬疑,惊悚悬疑,惊悚悬疑,黑莓影视,黑莓影视
 经典电影台,经典,IPTV经典电影,iptv经典电影
 天映电影,天映电影频道,天映电影Pdtv,天映经典,天映经典频道,天映经典频晴,天映频道,天映頻道,天映,天映频道(新加坡),[BD]天映 *b,[BD]天映,天映频道 (新加坡),Celestial Movies,天映频道频晴,天映频伍,天映频陆,CelestialMovies,Celestial Movies (576i),CELESTIAL MOVIES,Celestial Movies (576i),天映CM+,天映cm
-AMC电影,AMC电影台,amc电影台,amcmovies,AMC電影台,amc電影台,amc电影,AMC (720p),AMC East (720p),amc最爱电影
+AMC电影,AMC电影台,amc电影台,amcmovies,AMC電影台,amc電影台,amc电影,AMC East (720p),amc最爱电影
+FX Movie,FX Movie Channel HD (1080p)
 HBO,HBO Signature,HBO Family,HBO Hits,HBO HD(my),HBO2,HBO COMEDY,HBO_,HBO电影,HBO强档巨献,HBO原创,HBO强档,HBO3
 
 猫和老鼠,Tom and Jerry
 蜡笔小新,クレヨンしんちゃん,Crayon Shin-chan
+名侦探柯南,柯南
+金鹰卡通,金鹰卡通,湖南金鹰卡通,金鹰动画,金鹰卡通hd,金鹰卡通高清,金鹰卡通卫视,金鹰卡通SD,Golden Eagle Cartoon,Golden_Eagle_Cartoon
 靖天卡通,[BD]靖天卡通
 黑莓动画,NewTV黑莓动画,黑莓黑莓动画
 动漫秀场,SiTV动漫秀场,sitv动漫秀场,动漫秀场HD,Animation Show Channel
 哈哈炫动,炫动卡通,上海哈哈炫动,哈哈动画,哈哈炫动卫视,上海炫动卡通,哈哈少儿,炫动动画,哈哈炫动HD,Toonmax TV
 
-音乐现场,现场
-音乐之声,音之声
-音乐广播,广播音乐
+ABC,ABC (1080p),ABC West (720p),
+CBS,CBS (1080p),CBS (720p)
+NBC,NBC (1080p),NBC (720p),NBC West (720p),NBC West (San Diego) (1080p) [Not 24/7]
+NBC News,NBC News NOW (1080p)
+NBC Sports,NBC Sports NOW (1080p),NBC Sports Bay Area (1080p) [Geo-blocked]
+FOX,FOXHD,fox,Fox Business Network (720p),Fox News Channel (720p),Fox (1080p) [Geo-blocked],Fox (720p),Fox Deportes (720p),Fox West (720p)
+FOX Sports 1,Fox Sports 1 (720p)
+FOX Sports 2,Fox Sports 2 (720p)
+AMC,AMC (1080p) [Geo-blocked],AMC (720p),AMC Latin America (1080p)
+FX,FX (1080p),FX Latin America (1080p),FXX (1080p),FX (720p)
+The CW,CW (1080p) [Geo-blocked]
+ESPN,ESPN Deportes HD (720p),ESPNews (720p),ESPNU (720p),ESPNU HD (720p)
+National Geographic,National Geographic (720p),National Geographic HD East (720p),National Geographic Latin America (1080p),National Geographic Wild HD East (720p),
+Disney Channel,Disney Channel (720p) [Geo-blocked],Disney Junior (720p),Disney XD (720p)
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清,广东珠江HD,广东珠江频晴,备用源1:广东珠江
 广东体育,广东体育,广东体育频道,广东体育高清,广东体育HD,广体,广东体育频晴,备用源1:广东体育
@@ -450,7 +464,6 @@ HBO,HBO Signature,HBO Family,HBO Hits,HBO HD(my),HBO2,HBO COMEDY,HBO_,HBO电影,
 
 赣州新闻,GZSXW,GZSNews
 嘉佳卡通,广东嘉佳卡通,嘉佳动画,嘉佳卡通hd,嘉佳卡通高清,嘉佳卡通卫视,嘉佳卡通SD
-金鹰卡通,湖南金鹰卡通,金鹰动画,金鹰卡通hd,金鹰卡通高清,金鹰卡通卫视,金鹰卡通SD,Golden Eagle Cartoon,Golden_Eagle_Cartoon
 优漫卡通,江苏优漫卡通,优漫动画,优漫卡通hd,优漫卡通高清,优漫卡通卫视,江苏少儿频道,江苏少儿
 南国都市4K,南国都市4k,4k南国都市
 BesTV4K电影,BesTV4K电影 4K
@@ -594,7 +607,6 @@ FASHIONBOX,fashionbox
 FIGHTINGTVサムライ,fightingサムライ
 FM,fm
 Food Network 美食台,foodnetwork,foodnetwork美食台
-FOXHD,fox
 France 24,france24,france24e,france24french,法国24
 FRANCE24F,france24f
 FRANCE24英文台,france24英文

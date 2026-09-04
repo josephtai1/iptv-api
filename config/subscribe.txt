@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 
 
 

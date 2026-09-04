@@ -168,20 +168,34 @@ CHC影迷电影
 经典电影
 天映经典
 AMC电影
+FX Movie
 HBO
 
 🪁动画频道,#genre#
 猫和老鼠
 蜡笔小新
+名侦探柯南
+金鹰卡通
 靖天卡通
 黑莓动画
 动漫秀场
 哈哈炫动
 
-🎵音乐频道,#genre#
-音乐现场
-音乐之声
-音乐广播
+🇺🇸美国频道,#genre#
+ABC
+CBS
+NBC
+NBC News
+NBC Sports
+FOX
+FOX Sports 1
+FOX Sports 2
+AMC
+FX
+The CW
+ESPN
+National Geographic
+Disney Channel
 
 ☘️广东频道,#genre#
 广东卫视
